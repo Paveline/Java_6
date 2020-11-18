@@ -1,0 +1,4 @@
+2020/11/18 11:14:51
+20 Century Fox;Fox;1954;Los Angeles;1928;100000;Jhon;;Jhon@gmail.com;entertainments;film;www.Fox.com
+2020/11/18 11:14:51
+Nike;Nike;1945;Canada;1895;25000;Alex;;;sport;clothing;www.Nike.com

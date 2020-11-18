@@ -1,0 +1,3 @@
+select * from company_table where shortname = "mac"
+select * from company_table where kind_of_activity = "clothing"
+select * from company_table where employee_number between 10000 and 500000
